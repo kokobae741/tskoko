@@ -1,0 +1,15 @@
+# Frontend Domains (Random Selection)
+# hostname
+# hostname:80
+# hostname:443
+#
+
+#video.iflix.com
+#videocdn-2.iflix.com
+#
+
+monster-inject.line.me.pointdns.club:443
+ads.telkomsel.com
+mobi.telkomsel.com
+auth.telkomsel.com
+my.telkomsel.com

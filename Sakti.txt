@@ -1,0 +1,17 @@
+# Frontend Domains (Random Selection)
+#
+
+# hostname:80
+# hostname:443
+
+#TelkomPret
+#
+
+#cgi.jagoanssh.com
+#tsel.com
+#my.telkomsel.app
+
+# Jangan buat Bokep teros Boejank! 
+#
+
+sidik.ddns.net:443
